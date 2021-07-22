@@ -2,7 +2,9 @@
 
 exports[`index.tsx render 1`] = `
 <Home>
-  <div>
+  <div
+    className="jsx-1914448416 "
+  >
     <Head>
       <_default
         headManager={Object {}}
@@ -10,74 +12,109 @@ exports[`index.tsx render 1`] = `
         reduceComponentsToState={[Function]}
       />
     </Head>
-    <main>
-      <h1>
+    <main
+      className="jsx-1914448416 "
+    >
+      <h1
+        className="jsx-1914448416 "
+      >
         Welcome to 
         <a
+          className="jsx-1914448416"
           href="https://nextjs.org"
         >
           Next.js!
         </a>
       </h1>
-      <p>
-        Get started by editing
-         
-        <code>
+      <p
+        className="jsx-1914448416 "
+      >
+        Get started by editing 
+        <code
+          className="jsx-1914448416 "
+        >
           pages/index.js
         </code>
       </p>
-      <div>
+      <div
+        className="jsx-1914448416 "
+      >
         <a
+          className="jsx-1914448416 "
           href="https://nextjs.org/docs"
         >
-          <h2>
+          <h2
+            className="jsx-1914448416"
+          >
             Documentation →
           </h2>
-          <p>
+          <p
+            className="jsx-1914448416"
+          >
             Find in-depth information about Next.js features and API.
           </p>
         </a>
         <a
+          className="jsx-1914448416 "
           href="https://nextjs.org/learn"
         >
-          <h2>
+          <h2
+            className="jsx-1914448416"
+          >
             Learn →
           </h2>
-          <p>
+          <p
+            className="jsx-1914448416"
+          >
             Learn about Next.js in an interactive course with quizzes!
           </p>
         </a>
         <a
+          className="jsx-1914448416 "
           href="https://github.com/vercel/next.js/tree/master/examples"
         >
-          <h2>
+          <h2
+            className="jsx-1914448416"
+          >
             Examples →
           </h2>
-          <p>
+          <p
+            className="jsx-1914448416"
+          >
             Discover and deploy boilerplate example Next.js projects.
           </p>
         </a>
         <a
+          className="jsx-1914448416 "
           href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
         >
-          <h2>
+          <h2
+            className="jsx-1914448416"
+          >
             Deploy →
           </h2>
-          <p>
+          <p
+            className="jsx-1914448416"
+          >
             Instantly deploy your Next.js site to a public URL with Vercel.
           </p>
         </a>
       </div>
     </main>
-    <footer>
+    <footer
+      className="jsx-1914448416 "
+    >
       <a
+        className="jsx-1914448416"
         href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
         rel="noopener noreferrer"
         target="_blank"
       >
         Powered by
          
-        <span>
+        <span
+          className="jsx-1914448416 "
+        >
           <Image
             alt="Vercel Logo"
             height={16}
@@ -183,6 +220,9 @@ exports[`index.tsx render 1`] = `
         </span>
       </a>
     </footer>
+    <JSXStyle
+      id="1914448416"
+    />
   </div>
 </Home>
 `;
